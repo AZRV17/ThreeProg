@@ -1,0 +1,15 @@
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\PracticalWork2\PracticalWork2\bin\Debug\net6.0\PracticalWork2.exe
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\PracticalWork2\PracticalWork2\bin\Debug\net6.0\PracticalWork2.deps.json
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\PracticalWork2\PracticalWork2\bin\Debug\net6.0\PracticalWork2.runtimeconfig.json
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\PracticalWork2\PracticalWork2\bin\Debug\net6.0\PracticalWork2.dll
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\PracticalWork2\PracticalWork2\bin\Debug\net6.0\PracticalWork2.pdb
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\PracticalWork2\PracticalWork2\obj\Debug\net6.0\PracticalWork2.csproj.AssemblyReference.cache
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\PracticalWork2\PracticalWork2\obj\Debug\net6.0\PracticalWork2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\PracticalWork2\PracticalWork2\obj\Debug\net6.0\PracticalWork2.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\PracticalWork2\PracticalWork2\obj\Debug\net6.0\PracticalWork2.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\PracticalWork2\PracticalWork2\obj\Debug\net6.0\PracticalWork2.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\PracticalWork2\PracticalWork2\obj\Debug\net6.0\PracticalWork2.dll
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\PracticalWork2\PracticalWork2\obj\Debug\net6.0\refint\PracticalWork2.dll
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\PracticalWork2\PracticalWork2\obj\Debug\net6.0\PracticalWork2.pdb
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\PracticalWork2\PracticalWork2\obj\Debug\net6.0\PracticalWork2.genruntimeconfig.cache
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\PracticalWork2\PracticalWork2\obj\Debug\net6.0\ref\PracticalWork2.dll
